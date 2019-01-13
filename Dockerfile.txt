@@ -1,0 +1,17 @@
+FROM python:alpine
+
+WORKDIR /app/src
+
+COPY requirement.txt ./
+
+COPY latest.py ./
+
+COPY latest_model.pkl ./
+
+EXPOSE 5000
+
+ENV SERVER_VeriUs=docker
+
+# Using pip:
+RUN pip install --no-cache-dir -r requirement.txt
+CMD [ "python", "./latest.py " ]

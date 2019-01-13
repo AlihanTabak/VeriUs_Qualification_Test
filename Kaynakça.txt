@@ -1,0 +1,13 @@
+https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines
+
+https://medium.com/deep-learning-turkiye/metin-i%CC%87%C5%9Fleme-1-eski-tarz-y%C3%B6ntemler-bag-of-words-ve-tfxidf-76d5a0cf1b29
+
+https://docs.docker.com/
+
+http://flask.pocoo.org/
+
+https://medium.com/python-pandemonium/build-simple-restful-api-with-python-and-flask-part-1-fae9ff66a706
+
+http://blog.yavuzz.com/post/python-web-sitesini-docker-ile-dagitma
+
+https://flask-restful.readthedocs.io/en/0.3.5/quickstart.html
